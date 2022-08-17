@@ -127,8 +127,6 @@ List of tools for dealing with the wonderful PDF format.
 
 - [open-paperless](https://github.com/zhoubear/open-paperless)
 
-- [PyPDF2](https://github.com/mstamy2/PyPDF2)
-
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint)
@@ -207,7 +205,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [resumake](https://github.com/saadq/resumake)
 
-- [pdf](https://github.com/fraserxu/electron-pdf)
+- [electron-pdf](https://github.com/fraserxu/electron-pdf)
 
 * [html2pdf.it](https://github.com/ebdrup/html2pdf.it)
 
@@ -239,11 +237,11 @@ List of tools for dealing with the wonderful PDF format.
 
 * [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api)
 
-* [pdf](https://github.com/diegomura/react-pdf)
+* [react-pdf](https://github.com/diegomura/react-pdf)
 
 * [pdfkit](https://github.com/devongovett/pdfkit)
 
-* [pdf](https://github.com/marcbachmann/node-html-pdf)
+* [node-html-pdf](https://github.com/marcbachmann/node-html-pdf)
 
 * [PDFObject](https://github.com/pipwerks/PDFObject)
 
